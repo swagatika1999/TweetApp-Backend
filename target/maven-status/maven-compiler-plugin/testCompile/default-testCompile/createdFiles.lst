@@ -1,0 +1,4 @@
+com\tweetapp\controller\TweetAppControllerTest.class
+com\tweetapp\serviceimpl\UserRegistrationServiceImplTest.class
+com\tweetapp\serviceimpl\CommentsServiceImplTest.class
+com\tweetapp\TweetAppIihtApplicationTests.class
